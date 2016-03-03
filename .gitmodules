@@ -1,0 +1,3 @@
+[submodule "seed_module"]
+	path = seed_module
+	url = https://github.com/SonlyF5020/submodule_sample.git
